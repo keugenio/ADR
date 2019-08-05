@@ -1,0 +1,34 @@
+
+import React from 'react';
+import {Link} from 'react-router-dom';
+
+const RaceInfo = () => (
+    <React.Fragment>
+        <div className="container">
+            
+            <h1 className="display-4 text-center text-primary text-bold my-4">ADR Race Info</h1>
+            <div>
+
+                <h3>FREQUENTLY ASKED QUESTIONS</h3>
+                    <ul>
+                        <li><strong></strong><strong>How and where do I register?</strong>You can <Link to="https://racehubhq.com/races/10thAnnualAnotherDamRaceParker2019/" target="_blank">Register Online at RACEHUB</Link> for yourself or a crew,<Link to="https://racehubhq.com/races/10thAnnualAnotherDamRaceParker2019/" target="_blank">https://racehubhq.com/races/10thAnnualAnotherDamRaceParker2019/</Link></li>
+                        <li><strong>What are the registration fee?</strong>We have several pricing tiers below, based on when you register. This is due to various vendors needing advanced notice for counts. After certain dates, they impose rush fees which early registration helps us (and you) avoid!<em>Super Duper Early Bird Special - <strong>Until June 15th</strong> (6:00pm)</em>$45.00 - Individual Paddlers$90.00 - 2-person teams$270.00 - 6 Person Teams<em>Early Pricing - <strong>June 15th to August 15th</strong> (6:00pm)</em>$55.00 - Individual Paddlers$110.00 - 2-person teams$330.00 - 6 person teamsRegular Pricing - <strong>August 15th to October 10th</strong>* (6:00pm)$65.00 - Individual Paddlers$130.00 - 2-person teams$390.00 - 6 person teams* No changes to crew/class/t-shirt size. No guarantee of t-shirts after Oct 10th.<em>Last Minute <strong>October 10th* to October 31st</strong>$75.00 - Individual Paddlers$150.00 - 2-person teams$450.00 - 6-person teams* No changes to crew/class/t-shirt size. No guarantee of t-shirts after Oct 10th.Super Last Minute <strong>Friday November 1st </strong>$80.00 - Individual Paddlers$160.00 - 2-person teams$480.00 - 6-person teamsNo guarantee of t-shirts or food tickets.</em><em><strong>Day of Race November 2nd</strong> (6am-8am)**</em>$100.00 - Individual Paddlers$200.00 - 2-person teams$600.00 - 6-person teams** Day of registration is <strong>cash only</strong>.No guarantee of t-shirts or food tickets.<em>Amounts listed above do not include any RaceHub Transaction fees.</em></li>
+                        <li><strong>Do OC2 and Tandem sign up individually and pay?</strong>Yes. All members must sign up and pay their individual entry fee.</li>
+                        <li><strong>What does the registration fee include?</strong>Race entry, our infamous Tri-Tip bbq, Drinks, Paddler Raffle, T-Shirt*.* Entries after 10/19 are not inclusive of a t-shirt. We will try and order extra but size and availability are not guaranteed. Anyone who registered before 10/19 will have the t-shirt with your goodie bag.</li>
+                        <li><strong>Who can pickup the registration? </strong>Only a team member / racer can pick up race packet &amp; t shirts. No friend, family, significant other or otherwise can pick up packet. You must also sign for it.</li>
+                        <li><strong>What are the accommodations?</strong>Paddlers from out of town tend to stay in several locations.&nbsp; The most convenient and closest for race logistics are below:<strong></strong><strong>Blue Water Resort &amp; Casino</strong> (Race Finish and After Party)Hotel, RV park* (no tents)11300 Resort Dr. Parker, AZ 85344<Link to="http://www.bluewaterfun.com" target="_blank" style={{color: "rgb(255, 255, 255)"}}><span style={{color:"#FFFFFF"}}>http://www.bluewaterfun.com</span>*The Resort RV park is adjacent to the hotel.</Link><strong>River Lodge Resort</strong> (Race Start)RV, tent and Cabin options. 675 Parker Dam&nbsp;Rd Parker Dam, CA 92267<Link to="https://www.riverlodgeresort.com/" target="_blank">https://www.riverlodgeresort.com</Link></li>
+                        <li><strong>How long does it take to get to the race?</strong>From Los Angeles via i10 to 95 is roughly between 4-4.5 hours.From San Diego via i10 to 95 or i8 to 78 is 4.5-5.25 hours.From Phoenix via i10 to 72 is 2.5-3 hours.(Obviously traffic, and driving style will affect your results)&nbsp;<strong></strong></li>
+                        <li><strong>What is the terrain like?</strong>Picturesque cliffs and mountains, blue water, green cottonwood banks.</li>
+                        <li><strong>What is the water current like?</strong>A gradual flow helps paddlers along the river to the finish destination.</li>
+                        <li><strong>Is there an after after part?</strong>The After After Party is on!Hosted by 70Point8 LLC &amp; Riverlodge Resort. 6:30 at Riverlodge Resort on the California side of the river (same Venue as the start of ADR). Open music Jam bring you instruments. A waiver will need to be signed and a donation is appreciated.See you there!</li>
+                        <li><strong>How do I get from start to finish and back?</strong>So most often this is done with good old fashion carpooling. We have found that asking people before and after what their plans are will often lead to the common question, "do you have an empty seat for me?" And usually the reply is, "'sure thing you got it!" We will do an announcement at the finish line to encourage folks to help out their fellow paddlers, and this works really well&nbsp; </li>
+                        <li><strong>Can my friends and family there buy food tickets?</strong>Yes, food tickets are available online, via the orange button below, for $25.00 (plus $1.13 for transaction fees) or $30.00 11/1/18 after 8pm. In addition to being able to buy online, you can get a food wristband on the day of, but online is the best. <strong>Food wristbands must be worn to get your plate. </strong></li>
+                        <li><strong>Can my business setup on the beach to promote or sell?</strong>Only ADR Approved companies can demo on the beach during ADR weekend. Please <Link tto="mailto:jb@anotherdamrace.us" target="">contact ADR</Link> for a tribal permit no later than 12 (noon) on Friday Nov 3rd</li>
+                        <li><strong>What is your event cancellation refund policy?</strong>The Releasees reserve the right, in their sole determination, to postpone, cancel, or modify the Event due to weather conditions or other factors beyond the control of the Releasees that might affect the health and/or safety of Participants. Another Dam Race will not be obligated to refund any Participant any registration fees due to a cancelled event. ADR will send out packets and T-shirts to paid entries.<strong></strong></li>
+                    </ul>
+            </div>
+        </div>
+        </React.Fragment>
+);
+
+export default RaceInfo;

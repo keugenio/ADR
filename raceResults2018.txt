@@ -1,0 +1,155 @@
+55	3/4	Al Sadanaga	213	50+	male	OC-1	01:42:45.27
+112	4/8	Alisa Parry	39	Open	female	SUP 14'	02:07:40.69
+11	4/13	Andrew Berner	116	Open	male	OC-1	01:28:10.59
+127	4/9	Anita Nightingale	5	Open	female	SUP 12'6''	02:18:02.57
+53	2/2	Anne Ketterman, Dan Ketterman	125	Open	all	Hobie Pedal Craft Double	01:42:23.28
+47	3/9	Anne Cook	225	Open	female	OC-1	01:40:18.35
+122	3/9	Anne DeConinck	135	Open	female	SUP 12'6''	02:15:33.14
+123	1/3	Anthony Holland	44	Open	male	Prone (All)	02:16:36.49
+134	2/2	Austen Deveraux	38	U16	male	SUP 12'6''	02:21:23.45
+40	2/4	Bart Wagner	189	60+	male	Surfski Single	01:38:15.53
+119	2/5	BILL WITT	238	Open	male	SUP 12'6''	02:14:14.53
+62	2/10	Bill McGrath	98	50+	male	SUP Under 14'	01:44:30.89
+115	12/16	bob long	231	Open	male	SUP 14'	02:10:35.61
+23	7/13	Brandon Yip	42	Open	male	OC-1	01:33:16.16
+108	11/16	Brent Buccola	153	Open	male	SUP 14'	02:05:28.41
+68	6/9	Brittany Crail	199	Open	female	OC-1	01:46:24.47
+13	1/6	Carol Canning, Garth Canning	191	50+	mixed	OC-2	01:28:45.29
+91	5/7	Carolyn Earley	123	60+	female	OC-1	01:55:13.97
+26	1/2	Cecilia Ng, Margaret Coulombe	11	Open	female	OC-2	01:34:09.84
+93	1/5	Chad Carter	177	Open	male	SUP 12'6''	01:56:52.71
+121	3/5	Chadley Munro	66	Open	male	SUP 12'6''	02:14:42.66
+103	8/16	Chris Concannon	194	Open	male	SUP 14'	02:02:01.53
+92	5/16	Chris Smith	64	Open	male	SUP 14'	01:55:47.37
+86	4/5	chrissy thompson, Rick Kihara	75	Open	mixed	OC-2	01:54:00.15
+151	2/2	Christie Bonner	63	60+	female	SUP Under 14'	02:43:55.11
+153	8/9	Christine Drazil	180	Open	female	SUP 12'6''	02:47:11.47
+106	10/16	Corey Carlin	172	Open	male	SUP 14'	02:04:47.42
+37	1/16	Court Fetter	32	Open	male	SUP 14'	01:38:06.19
+57	1/4	Dale Marnati	155	60+	male	SUP Under 14'	01:43:15.55
+90	9/10	Dave Anderson	215	50+	male	SUP Under 14'	01:55:00.16
+131	1/1	David Heinz	169	U16	female	SUP 14'	02:19:43.89
+67	3/7	Debbie Hyde	25	60+	female	OC-1	01:46:07.31
+141	6/7	Di Dootson Rose	4	60+	female	OC-1	02:24:53.67
+104	3/8	Diana Durham Eugenio	35	50+	female	OC-1	02:02:50.33
+78	7/10	dwayne bora	232	50+	male	SUP Under 14'	01:51:02.27
+51	11/13	Efrain Becerra	65	Open	male	OC-1	01:42:15.82
+7	2/3	Fred Schiess	54	50+	male	Surfski Single	01:26:29.72
+85	14/16	Frederick Case	187	60+	male	OC-1	01:53:47.84
+145	4/5	FROST CHRIS	239	Open	male	SUP 12'6''	02:29:31.94
+102	7/16	Grant Cooper	145	Open	male	SUP 14'	02:01:29.17
+84	2/4	Grant Heinz	168	60+	male	SUP Under 14'	01:52:44.33
+98	10/10	Guy Dano	47	50+	male	SUP Under 14'	01:58:25.24
+144	6/9	Havy Lanier	188	Open	female	SUP 12'6''	02:26:59.88
+147	2/3	Heather Barnes	127	Open	female	Kayak	02:38:32.93
+94	1/2	Heidi Stone	186	60+	female	SUP Under 14'	01:57:08.01
+138	15/16	Ian Heinz	233	Open	male	SUP 14'	02:22:17.06
+96	12/13	James Crook	115	Open	male	OC-1	01:57:43.41
+39	2/4	James Rojas	1	50+	male	OC-1	01:38:14.07
+117	13/13	Jeff Archer	178	Open	male	OC-1	02:13:08.20
+25	3/4	Jeff Kay	46	Open	male	Surfski Single	01:34:00.76
+42	9/13	Jeff Mendoza	55	Open	male	OC-1	01:39:23.12
+142	8/9	Jennifer Johnson	226	Open	female	OC-1	02:25:28.34
+71	6/6	Jill Archer, Victor Archer	34	50+	mixed	OC-2	01:47:46.34
+21	2/16	Jim Groark	185	60+	male	OC-1	01:31:43.66
+14	1/3	Jody Conners	229	50+	female	Surfski Single	01:30:02.46
+137	2/4	Joe LaMantia III	181	Open	male	Recreational	02:22:15.12
+4	1/13	John Acosta IV	207	Open	male	OC-1	01:24:48.03
+124	1/2	John Croteau	14	Open	all	Hobie Pedal Craft	02:16:42.23
+120	14/16	john knippers	236	Open	male	SUP 14'	02:14:30.22
+74	3/4	john taylor	103	60+	male	Surfski Single	01:49:33.48
+88	3/4	John Tyler	70	60+	male	SUP Under 14'	01:54:31.79
+130	15/16	Jon Wild	216	60+	male	OC-1	02:19:30.84
+81	4/16	Juerg Geser	156	Open	male	SUP 14'	01:51:29.76
+65	1/1	kanita coyle, Mary Bisson	52	50+	female	OC-2	01:45:31.50
+125	3/5	karen ward	121	50+	female	SUP Under 14'	02:17:00.28
+152	7/9	Kat Duplisea	151	Open	female	SUP 12'6''	02:44:31.78
+80	13/16	Ken Smith	160	60+	male	OC-1	01:51:17.89
+59	4/4	Kerry Thompson	43	50+	male	OC-1	01:44:05.01
+69	11/16	Kimo Miranda	76	60+	male	OC-1	01:46:48.19
+83	1/5	Kristin Thomas	197	50+	female	SUP Under 14'	01:51:57.00
+27	3/6	kui eugenio, Ilona White	79	50+	mixed	OC-2	01:34:14.05
+50	1/1	Lee Payne, Jeanne Holdren	85	60+	female	OC-2	01:41:44.82
+34	1/7	Leslie Cercek	6	60+	female	OC-1	01:37:46.13
+87	7/9	Liz Ingraham	131	Open	female	OC-1	01:54:21.04
+41	1/8	Lucie Wailani	78	50+	female	OC-1	01:38:52.22
+70	4/10	Mace Camhe	223	50+	male	SUP Under 14'	01:46:55.50
+28	2/9	Makenzie Snyder	202	Open	female	OC-1	01:34:22.31
+22	3/16	Marc Lavertu	210	60+	male	OC-1	01:32:32.27
+48	4/9	margaret neiman	132	Open	female	OC-1	01:40:42.05
+146	4/4	Mark Formanek	91	Open	male	Recreational	02:29:33.45
+128	7/8	Melissa Newton	36	Open	female	SUP 14'	02:18:32.92
+52	2/16	Michael Castro	200	Open	male	SUP 14'	01:42:17.37
+105	9/16	Michael Stevenson	190	Open	male	SUP 14'	02:02:54.93
+129	1/3	MICHELLE KING	237	Open	female	Kayak	02:19:00.91
+116	13/16	Mike La	41	Open	male	SUP 14'	02:12:43.04
+24	1/2	Mike Lichtenwald, Ron Critchley	10	Open	all	Hobie Pedal Craft Double	01:33:37.17
+54	9/16	Mike Mossler	173	60+	male	OC-1	01:42:33.10
+3	2/4	Mike Roberts	209	Open	male	Surfski Single	01:23:53.57
+97	4/4	Milo Hama	201	60+	male	SUP Under 14'	01:57:58.84
+89	8/10	Mundo Juillerat	203	50+	male	SUP Under 14'	01:54:49.83
+82	4/7	Nancy Needham	30	60+	female	OC-1	01:51:48.87
+8	3/13	Nathan Lau	45	Open	male	OC-1	01:27:27.46
+38	1/4	Nyle Warinner	58	60+	male	Surfski Single	01:38:10.07
+45	3/5	Paul Breckenridge, Alanna Hoyer	13	Open	mixed	OC-2	01:39:46.63
+63	3/10	Paul Parry	95	50+	male	SUP Under 14'	01:45:05.46
+150	5/5	Pete Peralta	67	Open	male	SUP 12'6''	02:40:36.46
+77	3/16	Raden Baldogo	51	Open	male	SUP 14'	01:50:33.66
+113	5/8	Ramona Hill	126	Open	female	SUP 14'	02:09:53.43
+31	5/16	Rich Hess	59	60+	male	OC-1	01:35:59.77
+36	6/16	RICHARD Lai Fatt	182	60+	male	OC-1	01:37:52.61
+35	1/1	Robert Bertelli	148	U16	male	Kayak	01:37:49.95
+43	10/13	Robert Hernandez	96	Open	male	OC-1	01:39:36.58
+33	1/4	Robert Johnson	80	50+	male	OC-1	01:36:20.10
+56	5/9	Robin Jacobsen-Diederich	211	Open	female	OC-1	01:42:59.82
+126	2/2	Romelda Antonio	206	Open	all	Hobie Pedal Craft	02:17:33.63
+72	5/10	Russell Buccola	134	50+	male	SUP Under 14'	01:48:44.10
+17	3/3	Ryan Colloty	230	50+	male	Surfski Single	01:30:35.38
+32	8/13	Ryan Kinnie	27	Open	male	OC-1	01:36:09.04
+111	3/8	Samantha Eastburn	204	Open	female	SUP 14'	02:07:26.81
+9	1/1	Sandy Davidson, Richard Davidson	68	60+	mixed	OC-2	01:27:55.45
+136	5/9	Sandy Holtz	196	Open	female	SUP 12'6''	02:22:08.07
+101	2/8	Sara Smith	71	Open	female	SUP 14'	02:00:31.93
+5	2/13	Saul dobson	192	Open	male	OC-1	01:25:40.12
+2	1/3	Scott Diederich	212	50+	male	Surfski Single	01:23:33.64
+73	6/10	Sean Arnold	224	50+	male	SUP Under 14'	01:49:10.57
+154	9/9	SEAY TERRY	240	Open	female	SUP 12'6''	02:50:11.87
+64	1/8	Shanna Upton	100	Open	female	SUP 14'	01:45:26.56
+46	5/6	Shawn Tate, Laura Connelly	129	50+	mixed	OC-2	01:39:56.63
+148	8/8	Sheena Frizzell	140	Open	female	SUP 14'	02:39:30.79
+10	1/5	Shiloe Cagle, Nicolas Oudinot	205	Open	mixed	OC-2	01:28:09.15
+99	1/9	Shonna Litton Brown	107	Open	female	SUP 12'6''	01:59:16.66
+60	2/2	Stacia Palafox, Amy Hartle	73	Open	female	OC-2	01:44:09.04
+139	3/4	Stan Marks	90	Open	male	Recreational	02:24:19.77
+19	2/5	Stefanie Graves, Clarke Graves	195	Open	mixed	OC-2	01:31:17.80
+149	5/5	Stephanie Dinning	234	50+	female	SUP Under 14'	02:39:52.95
+44	7/16	Steve Perez	81	60+	male	OC-1	01:39:38.93
+100	6/16	steve rady	149	Open	male	SUP 14'	01:59:28.91
+1	1/4	Steyn Visagie	218	Open	male	Surfski Single	01:21:11.55
+140	1/1	Summer VanDelinder	12	Open	female	SUP Unlimited	02:24:37.18
+18	1/9	Suzy Strazzulla	242	Open	female	OC-1	01:30:51.34
+110	5/8	Sylvia Johnson	106	50+	female	OC-1	02:07:05.02
+135	1/4	Ted Deveraux	37	Open	male	Recreational	02:21:28.15
+6	1/1	Teresa Wilson	228	Open	female	Surfski Single	01:26:10.51
+109	2/5	Teri Haugen Carlin	171	50+	female	SUP Under 14'	02:05:48.66
+95	2/8	Terry Jamieson	150	50+	female	OC-1	01:57:24.89
+15	1/16	Thadias King	193	60+	male	OC-1	01:30:12.67
+20	2/6	Thomas Wallo, Mary Jo Wallo	61	50+	mixed	OC-2	01:31:35.73
+155	1/1	Tina Leach	128	Open	female	Recreational	02:51:56.12
+76	1/2	TJ Munks	120	U16	male	SUP 12'6''	01:50:19.47
+133	2/3	TOBERMAN GEORGE	241	Open	male	Prone (All)	02:20:52.71
+29	4/6	Tom Chism, Sheila Beuler	72	50+	mixed	OC-2	01:34:50.70
+58	10/16	Tom Gildea	15	60+	male	OC-1	01:43:42.18
+30	4/16	Tom Needham	31	60+	male	OC-1	01:35:20.19
+66	2/7	Toni Bushong	2	60+	female	OC-1	01:45:45.85
+114	6/8	Tracy Buresh-La	40	Open	female	SUP 14'	02:10:09.23
+107	4/8	Tracy Lum	110	50+	female	OC-1	02:05:12.15
+118	2/9	Veronica Wold	214	Open	female	SUP 12'6''	02:13:54.37
+143	4/5	Viviana Pinilla	170	50+	female	SUP Under 14'	02:26:08.86
+16	6/13	Wade Williford	141	Open	male	OC-1	01:30:21.64
+75	1/1	Wasana Starkey, Dale Adama	56	Open	all	Dory (2 person)	01:50:07.34
+132	6/8	Wendy Worcester	227	50+	female	OC-1	02:20:16.91
+49	8/16	William Ashford	7	60+	male	OC-1	01:41:28.82
+61	1/10	William Weiss	235	50+	male	SUP Under 14'	01:44:29.77
+79	12/16	Willie Lau	20	60+	male	OC-1	01:51:10.71
+12	5/13	Zibi Wadzynski	208	Open	male	OC-1	01:28:15.98
